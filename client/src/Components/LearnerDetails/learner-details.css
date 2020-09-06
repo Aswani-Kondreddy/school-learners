@@ -1,0 +1,10 @@
+.main{
+    margin: 40px;
+}
+
+p{
+    color: black;
+}
+p span, a{
+    color: rgb(20, 171, 190);
+}
